@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Realm. Ejemplo Demo 1</string>
+    <string name="status_output">Contenido...\n</string>
+    <string name="title_activity_add">Add</string>
+    <string name="name">NOmbre</string>
+    <string name="dob">Fecha Nacimiento</string>
+    <string name="salary">sueldo</string>
+    <string name="add">añadir</string>
+    <string name="reset">limpiar</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="age">edad</string>
+    <string name="Listado">Listado</string>
+
+    <string name="id">ID</string>
+    <string name="actualizar">actualizar</string>
+    <string name="add_pet">Añadir mascota</string>
+    <string name="owner_name">Owner name</string>
+    <string name="type">tipo</string>
+    <string name="pet_name">Nombre mascota</string>
+    <string name="new_pet_name">Nuevo nombre mascota</string>
+</resources>
